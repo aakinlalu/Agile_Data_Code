@@ -13,7 +13,7 @@ Jinja2==2.11.3
 ##python-snappy
 ##avro==1.7.3
 -e git+https://github.com/rhec/pyelasticsearch.git#egg=pyelasticsearch
-pymongo==2.4.1
+pymongo==2.5.2
 requests==2.20.0
 simplejson==2.6.2
 wsgiref==0.1.2
